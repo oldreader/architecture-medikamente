@@ -1,0 +1,236 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 YaBrowser/25.8.0.0 Safari/537.36" version="28.2.7">
+  <diagram name="Page-1" id="sqytUlHRKsskXsd8DLHW">
+    <mxGraphModel dx="1946" dy="628" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="mhFFTyDq0Cbx0rd9eXdw-1" value="" style="endArrow=none;html=1;rounded=0;fontSize=18;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-580" y="570" as="sourcePoint" />
+            <mxPoint x="680" y="580" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="mhFFTyDq0Cbx0rd9eXdw-2" value="" style="endArrow=none;html=1;rounded=0;fontSize=18;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-430" y="1040" as="sourcePoint" />
+            <mxPoint x="-240" y="610" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="mhFFTyDq0Cbx0rd9eXdw-3" value="" style="endArrow=none;html=1;rounded=0;fontSize=18;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="270" y="1040" as="sourcePoint" />
+            <mxPoint x="460" y="610" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="mhFFTyDq0Cbx0rd9eXdw-4" value="" style="endArrow=none;html=1;rounded=0;fontSize=18;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="460" y="530" as="sourcePoint" />
+            <mxPoint x="260" y="90" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="mhFFTyDq0Cbx0rd9eXdw-5" value="" style="endArrow=none;html=1;rounded=0;fontSize=18;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-240" y="510" as="sourcePoint" />
+            <mxPoint x="-440" y="70" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="mhFFTyDq0Cbx0rd9eXdw-6" value="Люди" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=21;" vertex="1" parent="1">
+          <mxGeometry x="-580" y="70" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="mhFFTyDq0Cbx0rd9eXdw-7" value="Технологии" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=21;" vertex="1" parent="1">
+          <mxGeometry x="150" y="70" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="mhFFTyDq0Cbx0rd9eXdw-8" value="Окружение" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=21;" vertex="1" parent="1">
+          <mxGeometry x="-580" y="1000" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="mhFFTyDq0Cbx0rd9eXdw-9" value="Процессы" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=21;" vertex="1" parent="1">
+          <mxGeometry x="150" y="1000" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="mhFFTyDq0Cbx0rd9eXdw-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=18;" edge="1" parent="1" source="mhFFTyDq0Cbx0rd9eXdw-10">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="190" y="170" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="mhFFTyDq0Cbx0rd9eXdw-10" value="Excel&amp;nbsp;" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="-10" y="160" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="mhFFTyDq0Cbx0rd9eXdw-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=18;" edge="1" parent="1" source="mhFFTyDq0Cbx0rd9eXdw-12">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="310" y="240" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="mhFFTyDq0Cbx0rd9eXdw-12" value="Разородное хранение файлов" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="-80" y="230" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="mhFFTyDq0Cbx0rd9eXdw-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="mhFFTyDq0Cbx0rd9eXdw-14">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="290" y="895" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="mhFFTyDq0Cbx0rd9eXdw-14" value="Ручная передача данных между системами" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="40" y="880" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="mhFFTyDq0Cbx0rd9eXdw-16" value="" style="endArrow=none;html=1;rounded=0;fontSize=18;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="330" y="250" as="sourcePoint" />
+            <mxPoint x="160" y="150" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="mhFFTyDq0Cbx0rd9eXdw-17" value="Хранение и контроль данныхз" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=14;rotation=25;" vertex="1" parent="1">
+          <mxGeometry x="220" y="150" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="mhFFTyDq0Cbx0rd9eXdw-18" value="" style="endArrow=none;html=1;rounded=0;fontSize=18;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="200" y="950" as="sourcePoint" />
+            <mxPoint x="360" y="840" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="mhFFTyDq0Cbx0rd9eXdw-20" value="Передача данных" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=14;rotation=-40;" vertex="1" parent="1">
+          <mxGeometry x="249.99850753720997" y="830.0031646577708" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="mhFFTyDq0Cbx0rd9eXdw-21" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-540" y="190" as="sourcePoint" />
+            <mxPoint x="-330" y="340" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="mhFFTyDq0Cbx0rd9eXdw-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="mhFFTyDq0Cbx0rd9eXdw-22">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-510" y="215" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="mhFFTyDq0Cbx0rd9eXdw-22" value="Навык работы в excel" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="-720" y="200" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="mhFFTyDq0Cbx0rd9eXdw-24" value="Обучение" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=14;rotation=25;" vertex="1" parent="1">
+          <mxGeometry x="-490.00149246279" y="180.00316465777072" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="mhFFTyDq0Cbx0rd9eXdw-26" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-490" y="340" as="sourcePoint" />
+            <mxPoint x="-280" y="490" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="mhFFTyDq0Cbx0rd9eXdw-27" value="Мотивация" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=14;rotation=25;" vertex="1" parent="1">
+          <mxGeometry x="-430.00149246279" y="340.00316465777075" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="mhFFTyDq0Cbx0rd9eXdw-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="mhFFTyDq0Cbx0rd9eXdw-28">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-390" y="415" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="mhFFTyDq0Cbx0rd9eXdw-28" value="Стимулирование людей работать по существующим процессам ручной передачи данных" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="-730" y="400" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="mhFFTyDq0Cbx0rd9eXdw-30" value="" style="endArrow=none;html=1;rounded=0;fontSize=18;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-500" y="940" as="sourcePoint" />
+            <mxPoint x="-340" y="830" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="mhFFTyDq0Cbx0rd9eXdw-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="mhFFTyDq0Cbx0rd9eXdw-31">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-390" y="865" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="mhFFTyDq0Cbx0rd9eXdw-31" value="Хранение excel файлов и доументов клиентов" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="-710" y="850" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="mhFFTyDq0Cbx0rd9eXdw-33" value="Окружение приложений" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=14;rotation=-40;" vertex="1" parent="1">
+          <mxGeometry x="-429.9968525611326" y="800.0042949373809" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="mhFFTyDq0Cbx0rd9eXdw-37" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#FF0000;" edge="1" parent="1" source="mhFFTyDq0Cbx0rd9eXdw-36">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="190" y="170" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="mhFFTyDq0Cbx0rd9eXdw-36" value="&lt;font style=&quot;color: rgb(255, 0, 0);&quot;&gt;Немасштабируемый, неконтролируемый, незащищенный доступ&lt;/font&gt;" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="370" y="40" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="mhFFTyDq0Cbx0rd9eXdw-39" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#FF0000;" edge="1" parent="1" source="mhFFTyDq0Cbx0rd9eXdw-38">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="310" y="240" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="mhFFTyDq0Cbx0rd9eXdw-38" value="&lt;font style=&quot;color: rgb(255, 0, 0);&quot;&gt;Незащищенное хранеиие. Риск утечки,, подмены данных&lt;/font&gt;" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="490" y="140" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="mhFFTyDq0Cbx0rd9eXdw-40" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#FF0000;" edge="1" parent="1" source="mhFFTyDq0Cbx0rd9eXdw-41">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-510" y="210" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="mhFFTyDq0Cbx0rd9eXdw-41" value="&lt;font style=&quot;color: rgb(255, 0, 0);&quot;&gt;Крпитически важна дисциплина и высокий уровень работы в excel&lt;/font&gt;" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-330" y="80" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="mhFFTyDq0Cbx0rd9eXdw-42" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#FF0000;" edge="1" parent="1" source="mhFFTyDq0Cbx0rd9eXdw-43">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-390" y="410" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="mhFFTyDq0Cbx0rd9eXdw-43" value="&lt;font style=&quot;color: rgb(255, 0, 0);&quot;&gt;Текучка кадров. Необходимо мотивировть людей работать со старыми технологиями&lt;/font&gt;" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-210" y="280" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="mhFFTyDq0Cbx0rd9eXdw-44" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#FF0000;" edge="1" parent="1" source="mhFFTyDq0Cbx0rd9eXdw-45">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-400" y="870" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="mhFFTyDq0Cbx0rd9eXdw-45" value="&lt;font style=&quot;color: rgb(255, 0, 0);&quot;&gt;Контроль к доступу, сохранности данных&amp;nbsp;&lt;/font&gt;" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-220" y="740" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="mhFFTyDq0Cbx0rd9eXdw-46" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#FF0000;" edge="1" parent="1" source="mhFFTyDq0Cbx0rd9eXdw-47">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="280" y="900" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="mhFFTyDq0Cbx0rd9eXdw-47" value="&lt;font style=&quot;color: rgb(255, 0, 0);&quot;&gt;Немасштабируемый, неконтролируемый, незащищенный доступ&lt;/font&gt;" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="460" y="770" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="mhFFTyDq0Cbx0rd9eXdw-48" value="" style="endArrow=none;html=1;rounded=0;fontSize=18;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="170" y="770" as="sourcePoint" />
+            <mxPoint x="430" y="690" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="mhFFTyDq0Cbx0rd9eXdw-50" value="Коммуникации" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=14;rotation=-40;" vertex="1" parent="1">
+          <mxGeometry x="310.0031474388674" y="660.0042949373809" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="mhFFTyDq0Cbx0rd9eXdw-53" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="mhFFTyDq0Cbx0rd9eXdw-52">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="330" y="725" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="mhFFTyDq0Cbx0rd9eXdw-52" value="коммуникация для&amp;nbsp; работы в excel" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="50" y="710" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="mhFFTyDq0Cbx0rd9eXdw-54" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#FF0000;" edge="1" parent="1" source="mhFFTyDq0Cbx0rd9eXdw-55">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="330" y="720" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="mhFFTyDq0Cbx0rd9eXdw-55" value="&lt;font style=&quot;color: rgb(255, 0, 0);&quot;&gt;Необходима синхронизация, если люди работают над ecel файлом. Как админы его обновляют, выгружают и т.д.&lt;/font&gt;" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="510" y="590" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="mhFFTyDq0Cbx0rd9eXdw-56" value="&lt;font style=&quot;color: rgb(255, 0, 0);&quot;&gt;1. Контроль к доступу, сохранности данных. Решение: первым делом необходимо организовать RBAC для доступа к файлам, excel файлам, паролям&amp;nbsp;&lt;/font&gt;" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="830" y="220" width="650" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="mhFFTyDq0Cbx0rd9eXdw-57" value="Приоритет улучшений" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=21;" vertex="1" parent="1">
+          <mxGeometry x="850" y="160" width="400" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="mhFFTyDq0Cbx0rd9eXdw-58" value="&lt;font style=&quot;color: rgb(255, 0, 0);&quot;&gt;0. Немасштабируемый, неконтролируемый, незащищенный доступ. Решение: ssl шифрование, TLS&lt;/font&gt;" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="830" y="190" width="650" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="mhFFTyDq0Cbx0rd9eXdw-59" value="&lt;font style=&quot;color: rgb(255, 0, 0);&quot;&gt;3. Немасштабируемый, неконтролируемый, незащищенный доступ. Решение: внедрение доступа чяерез api. Выделение БД&lt;/font&gt;" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="790" y="260" width="650" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="mhFFTyDq0Cbx0rd9eXdw-60" value="&lt;font style=&quot;color: rgb(255, 0, 0);&quot;&gt;4. Немасштабируемый, неконтролируемый, незащищенный доступ. Решение: шифрование на уровне&amp;nbsp; БД&lt;/font&gt;" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="790" y="310" width="650" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="mhFFTyDq0Cbx0rd9eXdw-61" value="&lt;font style=&quot;color: rgb(255, 0, 0);&quot;&gt;5. Немасштабируемый, неконтролируемый, незащищенный доступ. Решение: s3-like хранилище&lt;/font&gt;" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="790" y="350" width="650" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
